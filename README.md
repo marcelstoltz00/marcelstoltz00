@@ -4,6 +4,4 @@
 - I'm still figuring out what specifically i want to do with my life and what parts of Comp Sci/IT i enjoy the most.
 - 🌱 I’m currently a Gr12 Student but the plan is to go study bsc Computer Science if everything goes well :)
 contact me at: marcelstoltz00@gmail.com
-- 
-
 
