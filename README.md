@@ -1,6 +1,12 @@
-Hi, I’m @marcelstoltz00
- I’m a CompSci student interested in the inner and outer workings of software development and what it encompasses.
- I've only worked with Delphi,C++ and some HTML but i'm looking forward to broaden my coding knowledge.
- I'm still figuring out what specifically i want to do with my life and what parts of Comp Sci/IT i enjoy the most.
-My goal is to get a degree in Computer Science and find what I love to do in tech :)
-contact me at: marcelstoltz00@gmail.com
+Hi, I’m @marcelstoltz00 👋
+I’m a Computer Science student passionate about exploring the vast world of software development and its many facets.
+
+🌱 What I’m Learning
+Experienced with Delphi, C++, and some HTML.
+Excited to broaden my programming skills and dive into new technologies.
+🎯 Goals
+Earn my Computer Science degree.
+Discover which areas of tech excite me the most.
+Continue growing as a developer and finding my niche in the tech world.
+📬 Contact Me
+📧 Email: marcelstoltz00@gmail.com
